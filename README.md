@@ -3,7 +3,7 @@
 
 ### Overview of the analysis
 The purpose of this analysis was to show the summary of differences in ride-sharing data from different city types: Urban, Suburban, and Rural. 
-We found the 
+We found the: 
   * Total Number of Rides
   * Total Number of Drivers
   * The Sum of the Fares
@@ -19,7 +19,7 @@ The below shows a summary from this dataset:
 
 ![image](https://user-images.githubusercontent.com/100727593/162553300-da52ddf5-f9e0-4246-964c-54bd6932a1c2.png)
 
-This shows that clearly that urban cities have the largest and most utilized ridesharing market. However, the oversaturation of drivers in urban cities means that the average fare per trip and per driver is significantly lower than those in suburban or rural cities. There are 2405 drivers but only 1625 rides. Rural environments have far fewer drivers but the ones that are there have a significantly higher fare per trip. This could be because the trips are, by default, larger distances but it could also be because they are much in demand and their rates could be set higher.   
+This shows that clearly that urban cities have the largest and most utilized ridesharing market. However, the oversaturation of drivers in urban cities means that the average fare per trip and per driver is significantly lower than those in suburban or rural cities. There are 2405 drivers but only 1625 rides. You would expect there to be a significantly higher number of rides to drivers given that each driver would be doing several rides per day. This indicates there is a large number of inactive drivers that are driving down the 'average fare per driver' results. Rural environments have far fewer drivers but the ones that are there have a significantly higher fare per trip. This could be because the trips are, by default, larger distances but it could also be because they are much in demand and their rates could be set higher. Suburban cities sit in the middle and drivers make a reasonable fare per ride and might be a good choice for drivers that don't want to deal with urban city driving or very long distances.      
 
 ### Summary
 
